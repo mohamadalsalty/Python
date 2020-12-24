@@ -1,0 +1,2 @@
+<h1>qr image generator</h1>
+<p>The script is easy to run, just input the link you would like to have its qr image, its name, You must have the qrcode lib installed in your python scripts to install it you can use python -m pip install qrcode</p>
